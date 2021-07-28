@@ -1,4 +1,4 @@
-### Hi there, I'm Emmanuel - aka [the_optimiZANIAC][website] 👋
+### Hi there, I'm Emmanuel - aka [_optimiZANIAC][website] 👋
 
 [![Website](https://img.shields.io/website?label=manucho&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manumunubi.wixsite.com/ambition)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Emmanuel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@EmmanuelMunubi)
@@ -38,7 +38,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="centre" alt="Emmanuel's GitHub Stats" src="https://github-readme-stats.Emmanuel-Munubi.vercel.app/api?username=Emmanuel-Munubi&show_icons=true&hide_border=true" />
+  <img align="centre" alt="Emmanuel's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Munubi)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 </details>
 
