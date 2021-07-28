@@ -35,11 +35,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Munubi)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="centre" alt="Emmanuel's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Munubi)](https://github.com/anuraghazra/github-readme-stats)
-" />
 
 </details>
 
