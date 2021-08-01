@@ -1,7 +1,8 @@
-### Hi there, I'm Emmanuel - aka [_optimiZANIAC][website] 👋
+### Hi There , I'm Emmanuel  👋
 
-[![Website](https://img.shields.io/website?label=manucho&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manumunubi.wixsite.com/ambition)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Emmanuel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@EmmanuelMunubi)
+[![Twitter: WobblyWas](https://img.shields.io/twitter/follow/EmmanuelMunubi?style=social)](https://twitter.com/EmmnauelMunubi)
+[![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-Emmanuel-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-mwangi-15b41b218/)](https://www.linkedin.com/in/emmanuel-mwangi-15b41b218/)
+[![GitHub Emmanuel](https://img.shields.io/github/followers/Emmanuel-Munubi?label=follow&style=social)](https://github.com/Emmanuel-Munubi)
 
 ## I'm a Student, African Futurist, Young Kenyan, and Young ALX Leader!!
 
@@ -11,36 +12,19 @@
 - 🥅 2021 - 2022 Goals: Learn the 21st Century Skills like coding in a variety of languages
 - ⚡ Fun fact: I love listening to Kenyan Sauti Sol and Sol generation music
 
-### YouTube Playing 🎧
+### Languages 💻 🌐
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 
-[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2F8xuTwlYEFi5ZtSGqAFiau7Ur6SEK-h1mCa5RmZ1aJEJT3b0iLXPcDUQo35weli2wKcBK8CdXnr5SdnQlyajNCkCA9vFIG0hN26a5&imgrefurl=https%3A%2F%2Fmpasho.co.ke%2Fentertainment%2F2018-08-22-tujiangalie-sauti-sol-and-nyashinski-address-disaster-in-new-song%2F&tbnid=qneNWL1oSu3RqM&vet=12ahUKEwinz4CX04byAhVPnRoKHY0HAf0QMygEegUIARCQAQ..i&docid=dLZiTCAI0cnmOM&w=512&h=441&itg=1&q=sauti%20sol%20tujiangalie%20photo&ved=2ahUKEwinz4CX04byAhVPnRoKHY0HAf0QMygEegUIARCQAQ" alt="Sauti Sol Playing" width="1000" heught="500" />](https://www.youtube.com/watch?v=bhlNy345Jcc)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
+### Technologies and Tool ⚙️ 🖥
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<a href="https://github.com/Emmanuel-Munubi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Munubi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Munubi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+![](https://komarev.com/ghpvc/?username=Emmanuel-Munubi)
+
   
-<!--START_SECTION:activity-->
-1. 🗣 Contributing to Team project(https://github.com/Chezzo-codes/printf) 
-<!--END_SECTION:activity-->
-
-</details>
-
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Munubi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
-
-[website]: https://manumunubi.wixsite.com/ambition
-[twitter]: https://twitter.com/MunubiMwangi
-[instagram]: https://instagram.com/manumunubi
-[linkedin]: https://www.linkedin.com/feed/
