@@ -6,7 +6,6 @@
 
 ## I'm a Student, African Futurist, Young Kenyan, and Young ALX Leader!!
 
-- 🔭 I just finished High School in Kenya
 - 🌱 I’m currently learning Software engineering at ALX 🤣
 - 👯 I’m looking to collaborate with young African Leaders inspired by Fred Swaniker
 - 🥅 2021 - 2022 Goals: Learn the 21st Century Skills like coding in a variety of languages
